@@ -2,7 +2,7 @@
 
 ### A modern drag and droppable kanban board.
 
-## Launching the app
+## Project Setup
 
 Development:
 1. `npm install`
